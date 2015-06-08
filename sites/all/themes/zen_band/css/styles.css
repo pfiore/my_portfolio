@@ -70,7 +70,27 @@ a {
     text-align: center;
 
 }
+.header__name-and-slogan {
+    color: red;
+    text-align: center;
+    padding-left: 20px;
+    padding-top: 25px;
+
+
+}
+.header__logo {
+    width: 15%;
+    height: 15%
+}
 
 a.feed-icon {
     display: none;
+}
+
+.result {
+    color: red;
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+
 }
